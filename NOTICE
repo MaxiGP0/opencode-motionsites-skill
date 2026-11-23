@@ -1,0 +1,18 @@
+opencode-motionsites-skill
+Copyright (c) 2026 Máximo Gomez Pessoa (MaxiGP0)
+
+This repository contains an installer only. It does not redistribute the
+MotionSites Web Builder skill.
+
+At install time, the installer downloads the skill from the official repository:
+
+  https://github.com/Motionsites-AI/claude-skill
+
+There, the skill's instructions and code are MIT-licensed, and the example
+prompts and media remain © MotionSites. They may be used in sites built with
+the skill, as described by the upstream license:
+
+  https://github.com/Motionsites-AI/claude-skill/blob/main/LICENSE
+
+MotionSites and its designs and media belong to their respective owners.
+This project is unofficial and is not affiliated with MotionSites.

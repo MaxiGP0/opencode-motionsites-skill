@@ -20,10 +20,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-This repository contains an installer only. It does not redistribute the
-MotionSites Web Builder skill. The skill is downloaded at install time from
-https://github.com/Motionsites-AI/claude-skill, where its instructions and code
-are MIT-licensed and its example prompts and media remain (c) MotionSites.
